@@ -35,3 +35,4 @@ $endingString = stringReverse($startingString);
 echo $startingString.' turns into '.$endingString."\n";
 
 ?>
+
